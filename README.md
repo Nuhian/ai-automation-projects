@@ -21,3 +21,8 @@ Workflow that automates the extraction and processing of invoice data, reducing 
 
 ## Background
 MIS (Management Information Systems) background with hands-on, self-taught experience in no-code automation platforms and AI API integration. Comfortable designing end-to-end automated workflows from problem definition to deployment.
+## Technical Skills
+- **No-code/Low-code Automation:** Make.com, workflow design, API integration
+- **AI Integration:** OpenAI API, Gemini API, prompt engineering
+- **Programming Basics:** Java, HTML
+
